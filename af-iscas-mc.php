@@ -135,11 +135,11 @@ add_shortcode( 'af_isca_mc', 'inclui_layout_i_mc_ag', 100 );
 
 
 
-
+/*
 function af_i_mc_register_script(){
 
 	wp_enqueue_style( 'af-i-layout', plugins_url('af-i-layout.css', __FILE__));
 
 }
 
-add_action('wp_enqueue_scripts','af_i_mc_register_script');
+add_action('wp_enqueue_scripts','af_i_mc_register_script');*/
